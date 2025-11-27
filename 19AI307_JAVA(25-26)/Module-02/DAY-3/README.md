@@ -7,6 +7,7 @@ Write a Java program to create a class called Rectangle with private instance va
 To read and display the length and width of a rectangle using getter and setter methods.
 
 ## ALGORITHM :
+```
 1.	Start the program.
 2.	Import the necessary package 'java.util'
 3.	Create a class with private variables length and width.
@@ -15,7 +16,7 @@ To read and display the length and width of a rectangle using getter and setter 
 5.In main, read length and width from the user and set them using setter methods.
 6.Print the values using getter methods.
 
-
+```
 
 
 
@@ -68,3 +69,4 @@ class prog {
 
 ## RESULT:
 The program successfully reads the rectangle dimensions and displays them using getter and setter methods.
+
