@@ -17,6 +17,7 @@ If checking account has insufficient balance print - "Insufficient balance in Ch
 To demonstrate method overriding by performing deposit and withdrawal operations on Savings and Checking accounts.
 
 ## ALGORITHM :
+```
 1.	Start the program.
 2.	Import the necessary package 'java.util'
 3.	Create a BankAccount class with deposit and withdraw methods.
@@ -25,7 +26,7 @@ To demonstrate method overriding by performing deposit and withdrawal operations
 6.Create the appropriate account object based on the account type.
 7.Perform deposit, perform withdrawal, and display the final balance.
 
-
+```
 
 
 
@@ -123,3 +124,4 @@ public class Main {
 
 ## RESULT:
 The program successfully applies different withdrawal rules for Savings and Checking accounts using method overriding and displays the final balance.
+
