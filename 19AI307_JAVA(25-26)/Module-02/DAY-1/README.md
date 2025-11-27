@@ -7,6 +7,7 @@ Create a class Vehicle with attributes as number, type and owner.
 To create a Vehicle class and read the details of two vehicles and display them.
 
 ## ALGORITHM :
+```
 1.	Start the program.
 2.	Import the necessary package 'java.util'
 3.	Define a Vehicle class with number, type, and owner as data members.
@@ -14,7 +15,7 @@ To create a Vehicle class and read the details of two vehicles and display them.
 5.Read number, type, and owner for the first vehicle.
 6.Read number, type, and owner for the second vehicle.
 7.Print the details of both vehicles in the given format.
-RESULT: The program successfully reads and displays the details of two vehicles.
+```
 
 
 
@@ -72,3 +73,4 @@ public class Main {
 ## RESULT:
 
 The program successfully reads and displays the details of two vehicles.
+
