@@ -7,6 +7,7 @@ To demonstrate the difference between static and non-static variables by creatin
 
 
 ## ALGORITHM :
+```
 1.	Start the program.
 2.	Import the necessary package 'java.util'
 3.	Declare a static variable to count objects shared by all instances.
@@ -15,7 +16,7 @@ To demonstrate the difference between static and non-static variables by creatin
 6.Read the number of objects to create from the user.
 7.Create the specified number of objects inside a loop to show the difference in counts.
 
-
+```
 
 
 
@@ -65,3 +66,4 @@ class prog {
 
 ## RESULT:
 The program correctly demonstrates how static variables are shared across all objects while non-static variables reset for each object.
+
