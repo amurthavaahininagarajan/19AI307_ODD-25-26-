@@ -20,6 +20,7 @@ Uses a loop to check each number for perfection by calculating the sum of its di
 To find and display all perfect numbers from 1 to the given number N.
 
 ## ALGORITHM :
+```
 1.	Start the program.
 2.	Import the necessary package 'java.util'
 3.	Read the value of N from the user.
@@ -27,7 +28,7 @@ To find and display all perfect numbers from 1 to the given number N.
 5.Check all divisors of the number up to num/2 and add them to sum.
 6.If the sum of divisors equals the number, print the number as a perfect number.
 7.If no perfect number is found, print “None”.
-
+```
 
 ## PROGRAM:
  ```
@@ -78,3 +79,4 @@ public class PerfectNumbers {
 
 ## RESULT:
 The program successfully identifies and displays all perfect numbers up to N.
+
