@@ -34,11 +34,13 @@ a <= b: <true/false>
 To check whether all logical conditions based on two numbers are satisfied and determine if the gate opens.
 
 ## ALGORITHM :
+```
 1.Start the program and read two integers from the user.
 2.Calculate the sum of the two numbers and check whether the sum is greater than 50.
 3.Find the absolute difference between the numbers and check if it is less than 30.
 4.Compute the product of the two numbers and verify whether the product is even.
-5.Check that both numbers are not the same; if all conditions are satisfied, display “Gate Opens”, otherwise display “Gate Does Not Open”.
+5.Check that both numbers are not the same; if all conditions are satisfied, display “Gate Opens”, otherwise display “Gate Does Not OpeN",
+```
 
 ## PROGRAM:
  ```
@@ -75,3 +77,4 @@ public class Main{
 
 ## RESULT:
 The program correctly compares the two input integers and displays all the relational operator results between them.
+
