@@ -7,6 +7,7 @@ Write a method int cube(int x) that calls a method int square(int x) internally 
 To compute the cube of a number using a square method inside a class.
 
 ## ALGORITHM :
+```
 1.	Start the program.
 2.	Import the necessary package 'java.util'
 3.	Define a method square(x) to return x*x.
@@ -14,7 +15,7 @@ To compute the cube of a number using a square method inside a class.
 5.Read an integer from the user.
 6.Create an object of the CubeUsingSquare class.
 7.Call the cube method and display the result.
-
+```
 
 
 
@@ -63,3 +64,4 @@ public class CubeUsingSquare {
 
 ## RESULT:
 The program successfully calculates the cube of the given number using the square method.
+
