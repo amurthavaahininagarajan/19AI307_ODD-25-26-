@@ -8,6 +8,7 @@ Create a class Employee with method display(). Inside display(), return the curr
 To set and display an employee’s name using method returning and method chaining.
 
 ## ALGORITHM :
+```
 1.	Start the program.
 2.	Import the necessary package 'java.util'
 3.	Create an Employee class with a name variable.
@@ -15,7 +16,7 @@ To set and display an employee’s name using method returning and method chaini
 5.Define display() to return the current object using this.
 6.Define printName() to print the employee name.
 7.In main, read the employee name, set it using setName(), and print it using method chaining.
-
+```
 
 
 
@@ -69,3 +70,4 @@ class prog {
 
 ## RESULT:
 The program successfully reads, stores, and displays the employee’s name using method chaining.
+
