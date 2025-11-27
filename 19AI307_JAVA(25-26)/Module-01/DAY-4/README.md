@@ -7,6 +7,7 @@ Write a Java program to print all elements in an array that are greater than a g
 To read an array and print all elements greater than a given value.
 
 ## ALGORITHM :
+```
 1.	Start the program.
 2.	Import the necessary package 'java.util'
 3.	Read the size of the array n.
@@ -14,7 +15,7 @@ To read an array and print all elements greater than a given value.
 5.Read the comparison value.
 6.Traverse the array and print each element that is greater than the given value.
 7.If no such element exists, print “No elements greater than value”.
-
+```
 ## PROGRAM:
  ```
 /*
@@ -64,3 +65,4 @@ public class GreaterThanValue {
 
 ## RESULT:
 The program successfully checks the array and prints all elements greater than the given value or displays a message if none are found.
+
