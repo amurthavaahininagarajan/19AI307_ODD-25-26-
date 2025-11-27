@@ -41,6 +41,7 @@ For each order, the program should display the full details including the user t
 
 To calculate and display the final order amount for Normal and Prime users using inheritance and method overriding.
 ## ALGORITHM :
+```
 1.	Start the program.
 2.	Import the necessary package 'java.util'
 3.	Create an Order class with order details and a method to calculate the final amount.
@@ -48,7 +49,7 @@ To calculate and display the final order amount for Normal and Prime users using
 5.Override calculateFinalAmount() in PrimeUser to apply a 50% delivery charge discount.
 6.Read user type and order details from the user.
 7.Create the appropriate object based on user type and display the order details.
-
+```
 
 ## PROGRAM:
  ```
@@ -145,3 +146,4 @@ public class FoodDeliveryApp {
 
 ## RESULT:
 The program successfully calculates and displays the final payable amount for both Normal and Prime users using inheritance and overriding.
+
