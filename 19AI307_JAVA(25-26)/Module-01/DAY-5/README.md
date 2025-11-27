@@ -7,12 +7,13 @@ Write a Java program to find the absolute value of a number using Math.abs().
 To read a number and print its absolute value.
 
 ## ALGORITHM :
+```
 1.	Start the program.
 2.	Import the necessary package 'java.util'
 3.	Read a number from the user.
 4.Compute its absolute value using Math.abs().
 5.Display the absolute value.
-
+```
 
 ## PROGRAM:
  ```
@@ -49,3 +50,4 @@ public class Value{
 
 ## RESULT:
 The program successfully reads a number, computes its absolute value, and prints it.
+
