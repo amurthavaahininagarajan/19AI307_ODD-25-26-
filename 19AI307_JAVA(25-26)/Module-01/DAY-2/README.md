@@ -21,6 +21,7 @@ Write a java program that gets input from user for gender and subject, allot roo
 To write a program that reads the gender and subject code of a student and displays the correct exam room based on the given conditions.
 
 ## ALGORITHM :
+```
 1.Start the program and read the student’s gender and subject code as input.
 2.Check if the gender is male (m):
   *If subject is 1 or 2, assign room A.
@@ -33,7 +34,7 @@ To write a program that reads the gender and subject code of a student and displ
   *Otherwise, display Invalid.
 4.If the gender is neither ‘m’ nor ‘f’, print Invalid.
 5.Stop the program.
-
+```
 ## PROGRAM:
  ```
 /*
@@ -80,3 +81,4 @@ public class ExamRoom {
 
 ## RESULT:
 The program successfully reads gender and subject code, checks all the given conditions, and correctly displays the appropriate exam room or an invalid message.
+
